@@ -1,7 +1,7 @@
 # Amazon Beauty Products Recommendation System
 
 ## Introduction
-<<<<<<< HEAD
+
 
 Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. In 2020, Amazon captured 32 percent of all beauty and skin care bought online, with $23 billion in total sales.
 
