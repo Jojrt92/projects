@@ -14,7 +14,7 @@ Some stats taken from: https://www.powerreviews.com/insights/2021-beauty-industr
 41% say they rely on reviews more than they did pre-Covid
 76% focusing on buying products that are sustainably made
 54% (more than half) of consumers indicate they wear less makeup now than pre-COVID
-=======
+
 The Covid-19 pandemic has boosted the sale online purchases in general globally, with consumers found themselves spending their time in quarrantine.
 
 Some stats taken from: https://www.powerreviews.com/insights/2021-beauty-industry-consumer-report/
@@ -25,24 +25,24 @@ Some stats taken from: https://www.powerreviews.com/insights/2021-beauty-industr
 - 76% focusing on buying products that are sustainably made
 - 54% (more than half) of consumers indicate they wear less makeup now than pre-COVID
 
->>>>>>> 24ecdd0b8d9fcb6602b213c835332fb728abdf5d
+
 One pattern was observed that, during Covid, more than half of the consumers claimed that they wore less makeup, yet beauty product sales has soared. On the other hand, survey suggest that the consumers do care about products that are sustainably made, yet on a personal level, consumers are buying in excess
 
 ## Problem Statement
 
 Consumers are concerned about beauty products manufactured and the impact it does to the environment, yet they are indulging in buying new products that are pushed to them via attractive sales or word of mouths recommendations from influencers.
 
-<<<<<<< HEAD
+
 This project aims to address a consumer's desire to create less waste from beauty products by encourageing them to purchase more sensibly via a recommendation system that contains reviews and scores of a product that were gathered from an Amazon user's raw inputs.
-=======
+
 **This project aims to address a consumer's desire to create less waste from beauty products by encourageing them to purchase more sensibly via a content based recommendation system that contains reviews and scores of a product that were gathered from an Amazon user's raw inputs.**
->>>>>>> 24ecdd0b8d9fcb6602b213c835332fb728abdf5d
+
 
 ## Dataset
 
 Amazon Product Dataset: http://jmcauley.ucsd.edu/data/amazon/
 
-<<<<<<< HEAD
+
 ## EDA, Pre-processing
 
 
@@ -77,4 +77,4 @@ Combined Word2vec with cosine similarity, we are able to complete a more robust 
 
 <img width="1083" alt="image" src="https://media.git.generalassemb.ly/user/43940/files/b8e0cbdf-c8a8-484e-a478-337c64cc09d4">
 A visualization of word embeddings is plotted with t-SNE. For this model, it is trained on 300 dimensions, however humans are unable to visualise anything beyong 3 dimensions. t-SNE is used to squash this down to 2D or 3D for ease of visualisation. This example shows the location of the top 10 similar words to "perfume" and "mask".
->>>>>>> 24ecdd0b8d9fcb6602b213c835332fb728abdf5d
+
