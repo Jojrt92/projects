@@ -57,7 +57,6 @@ Amazon Product Dataset: http://jmcauley.ucsd.edu/data/amazon/
 
 <img src="attachment:a8b26efc-2f00-4542-8d9c-8a12c683198c.png" width="600">
 
-=======
 ## TF-IDF + Cosine Similarity Baseline model
 The baseline recommendation system model was built with Bag-Of-Words **TF-IDF** and combined with cosine simlarity.
 
