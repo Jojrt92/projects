@@ -20,9 +20,11 @@ The recommender system is ultimately completed with Cosine Similarity paired wit
 
 Project Description:
 This project is built with the aim to classify and predict which subreddit based on a text input. 10,000 rows of data are scrapped from the reddit API of subreddit Starbucks and Dunkin Donuts. 
-**It's the Halloween season of 2022, Starbucks and Dunkin Donuts are both competitors in the Coffeeshop chain industry and both brands have launched their seasonal Halloween themed products. **
+**It's the Halloween season of 2022, Starbucks and Dunkin Donuts are both competitors in the Coffeeshop chain industry and both brands have launched their seasonal Halloween themed products.**
+
 This Subreddit Classifier aims to test the marketing strategy of both brands via the analysis on the text data from their respective subreddits. It has a 72.5% accuracy of predicting the right brand based on the text input and is able to extract the best feature(keywords) of each brand.
 
-![image](https://user-images.githubusercontent.com/106056323/217898200-8dfe9094-9c28-4c1a-9be1-b42f3c9b4e2f.png)![image](https://user-images.githubusercontent.com/106056323/217901039-ffbfc623-c15a-46d6-89e7-d61bd22345c0.png)
+![image](https://user-images.githubusercontent.com/106056323/217898200-8dfe9094-9c28-4c1a-9be1-b42f3c9b4e2f.png = 400x250)
+![image](https://user-images.githubusercontent.com/106056323/217901039-ffbfc623-c15a-46d6-89e7-d61bd22345c0.png)
 
 
