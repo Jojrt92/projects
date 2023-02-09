@@ -78,3 +78,6 @@ Combined Word2vec with cosine similarity, we are able to complete a more robust 
 <img width="1083" alt="image" src="https://media.git.generalassemb.ly/user/43940/files/b8e0cbdf-c8a8-484e-a478-337c64cc09d4">
 A visualization of word embeddings is plotted with t-SNE. For this model, it is trained on 300 dimensions, however humans are unable to visualise anything beyong 3 dimensions. t-SNE is used to squash this down to 2D or 3D for ease of visualisation. This example shows the location of the top 10 similar words to "perfume" and "mask".
 
+## End Product Deployment
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/106056323/217907810-139f9e5d-569a-47e3-8224-4a5228e6fcfb.png">
+
