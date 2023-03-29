@@ -3,11 +3,13 @@
 ## H&M Recommender
 <img width="1427" alt="image" src="https://kouroshnewyork.com/media/codazon_cache/brand/1200x/wysiwyg/codazon/Brand/banner-cover-HM.jpg">
 This is still a work in progress. Originally a competition from kaggle.
+
 source: https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 
 
 ## Amazon Products Recommender
 **Beauty products recommender system built with NLP** 
+<img width="1427" alt="image" src="https://thedomesticatedman.files.wordpress.com/2013/10/amazon-banner.png">
 
 Project Description: 
 
