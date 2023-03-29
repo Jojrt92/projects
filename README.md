@@ -9,7 +9,7 @@ source: https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recomme
 
 ## Amazon Products Recommender
 ### Beauty products recommender system built with NLP
-<img width="1427" alt="image" src="https://thedomesticatedman.files.wordpress.com/2013/10/amazon-banner.png" width="800" height="300">
+<img width="1427" alt="image" src="https://thedomesticatedman.files.wordpress.com/2013/10/amazon-banner.png" width="800" height="200">
 
 Project Description: 
 
@@ -23,7 +23,7 @@ The recommender system is ultimately completed with Cosine Similarity paired wit
 - Recommender system
 
 ### End Product
-<img width="1427" alt="image" src="https://user-images.githubusercontent.com/106056323/217649154-33147f78-82cf-4a2d-b83d-1ad91cb942e3.png">
+<img width="1427" alt="image" src="https://user-images.githubusercontent.com/106056323/217649154-33147f78-82cf-4a2d-b83d-1ad91cb942e3.png" width="800" height="200">
 
 
 ## Subreddit Classifier
