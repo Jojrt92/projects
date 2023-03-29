@@ -23,7 +23,7 @@ The recommender system is ultimately completed with Cosine Similarity paired wit
 - Recommender system
 
 ### End Product
-<img width="1427" alt="image" src="https://user-images.githubusercontent.com/106056323/217649154-33147f78-82cf-4a2d-b83d-1ad91cb942e3.png" width="800" height="200">
+<img width="1427" alt="image" src="https://user-images.githubusercontent.com/106056323/217649154-33147f78-82cf-4a2d-b83d-1ad91cb942e3.png" >
 
 
 ## Subreddit Classifier
